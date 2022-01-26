@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-#https://roadmap.sh/
-#Student of https://informatica.usach.cl/
+https://roadmap.sh/
+
+#Student at https://informatica.usach.cl/
