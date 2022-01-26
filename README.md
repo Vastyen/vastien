@@ -2,4 +2,4 @@
 
 https://roadmap.sh/
 
-#Student at https://informatica.usach.cl/
+Student of https://informatica.usach.cl/
