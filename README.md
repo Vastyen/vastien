@@ -1,6 +1,6 @@
 ## Hey!
 
-  Be productive with Be Productive ->  https://vastien.github.io/be-productive-ws/
+  Be Productive → https://vastien.github.io/be-productive-ws/
    
 
 ___________________________________________________________________________________________________________________________________________________________
