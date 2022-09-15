@@ -1,6 +1,8 @@
 ## Hey!
 
-  Check my first desktop software https://vastien.github.io/be-productive-ws/
+  Check my first desktop software
+  Be Productive! - https://vastien.github.io/be-productive-ws/
+   
 
 ___________________________________________________________________________________________________________________________________________________________
 
