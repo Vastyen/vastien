@@ -1,6 +1,6 @@
 ### Hey!
 
-I am studying data base (and backend) and actually I'm learning a lot. 
+I am studying back-end and actually I'm learning a lot. 
 
 To guide myself I use https://roadmap.sh/ and https://www.google.com/                 
 Look a different Astronomy Picture all days https://nasapod-7c318.web.app/                                                                                                                                                          
