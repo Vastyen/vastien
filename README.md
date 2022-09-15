@@ -1,4 +1,4 @@
-## Hey 🖐🏻
+## Hey 🙂
 
   Be Productive → https://vastien.github.io/be-productive-ws/
    
