@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 
 
-<div style="text-align:center">
+<div style="text-align:center; align-items:center; justify-content:center;">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vastien&show_icons=true&theme=tokyonight).                  
