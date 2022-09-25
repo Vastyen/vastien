@@ -13,11 +13,11 @@ ________________________________________________________________________________
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vastien"></p>          
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vastien"></p>       
-  
-I am studying back-end and actually I'm learning a lot. 
-To guide myself → https://roadmap.sh/                                                                                                                                                                                                                                                                                                                     
-Student at → https://informatica.usach.cl/       
-
+        
 ___________________________________________________________________________________________________________________________________________________________
 
+I am studying back-end and actually I'm learning a lot. 
+To guide myself → https://roadmap.sh/                                                                                                                                                                                                                                                                                                                     
+Student at → https://informatica.usach.cl/ 
 
+___________________________________________________________________________________________________________________________________________________________
