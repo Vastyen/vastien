@@ -12,6 +12,7 @@ ________________________________________________________________________________
   <img src="https://github-readme-stats.vercel.app/api?username=vastien">
 </p>
     
+<img src="https://github-readme-stats.vercel.app/api?username=vastien">                                                                       
 I am studying back-end and actually I'm learning a lot. 
 
 To guide myself → https://roadmap.sh/                                                                                                                                                                                                                                                                                                                     
