@@ -13,4 +13,4 @@ Student at → https://informatica.usach.cl/
 
 ___________________________________________________________________________________________________________________________________________________________
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vastien&show_icons=true&theme=gruvbox)
