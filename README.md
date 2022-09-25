@@ -10,9 +10,9 @@ ________________________________________________________________________________
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vastien&show_icons=true&theme=tokyonight).                  
 
 
-
+<p align="center">
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=vastien)
-
+</p>
 I am studying back-end and actually I'm learning a lot. 
 
 To guide myself → https://roadmap.sh/                                                                                                                                                                                                                                                                                                                     
