@@ -3,8 +3,6 @@
   Be Productive Software → https://vastien.github.io/be-productive-website                           
   Source Code of Be Productive → https://github.com/vastien/be-productive
   
-![Be Productive Software -> ](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) https://vastien.github.io/be-productive-website   
-   
 
 ___________________________________________________________________________________________________________________________________________________________
 
