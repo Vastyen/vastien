@@ -14,4 +14,4 @@ Student at → https://informatica.usach.cl/
 ___________________________________________________________________________________________________________________________________________________________
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vastien&show_icons=true&theme=tokyonight)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vastien)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastien&layout=compact)](https://github.com/vastien)
