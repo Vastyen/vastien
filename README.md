@@ -7,15 +7,12 @@
 
 ___________________________________________________________________________________________________________________________________________________________
 
-<p align="center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vastien">
-  <img src="https://github-readme-stats.vercel.app/api?username=vastien">
-</p>
-    
+
+<p align="center">    
 <img src="https://github-readme-stats.vercel.app/api?username=vastien">              
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vastien">                                                                      
 I am studying back-end and actually I'm learning a lot. 
-
+</p>
 To guide myself → https://roadmap.sh/                                                                                                                                                                                                                                                                                                                     
 Student at → https://informatica.usach.cl/       
 
