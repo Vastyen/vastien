@@ -13,5 +13,5 @@ Student at → https://informatica.usach.cl/
 
 ___________________________________________________________________________________________________________________________________________________________
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastien&layout=compact)](https://github.com/vastien/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastien)](https://github.com/vastien/)
