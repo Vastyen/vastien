@@ -8,8 +8,8 @@
 ___________________________________________________________________________________________________________________________________________________________
 
 <p align="center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vastien"></img>        
-  <img src="https://github-readme-stats.vercel.app/api?username=vastien"></img>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vastien">
+  <img src="https://github-readme-stats.vercel.app/api?username=vastien">
 </p>
     
 I am studying back-end and actually I'm learning a lot. 
