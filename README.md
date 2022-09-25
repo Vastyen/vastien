@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 
 <p align="center">
-![image](https://github-readme-streak-stats.herokuapp.com/?user=vastien)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vastien">
 </p>
 I am studying back-end and actually I'm learning a lot. 
 
