@@ -8,10 +8,7 @@
 Source Code of Be Productive → https://github.com/vastien/be-productive
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-___________________________________________________________________________________________________________________________________________________________
 
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vastien"></p>       
         
 ___________________________________________________________________________________________________________________________________________________________
 
