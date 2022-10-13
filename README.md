@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 
 
-  Presentation Cards for Consultancies → https://teasesoro.cl/
+  Presentation Cards for Consultancies → https://teasesoro.cl/                               
   Source Code → https://github.com/vastien/teasesoro.cl/
   
   
