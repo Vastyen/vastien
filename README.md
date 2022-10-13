@@ -1,7 +1,7 @@
 ## Hey There!
 
   Be Productive Software → https://vastien.github.io/be-productive-website                           
-  Source Code of Be Productive → https://github.com/vastien/be-productive
+  Source Code → https://github.com/vastien/be-productive
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   
