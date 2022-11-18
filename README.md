@@ -1,9 +1,7 @@
 ## Hey There!
 
-My name is Bastián and my passion is the Computer Science.
-
-<i>Divide and Conquer</i>
-
+My name is Bastián and my passion is the Computer Science. 
+<i>"Divide and Conquer."</i>
 ___________________________________________________________________________________________________________________________________________________________
 
 
