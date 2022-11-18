@@ -1,6 +1,8 @@
 ## Hey There!
 
-My name is Bastián and my passion is the computer science.
+My name is Bastián and my passion is the Computer Science.
+
+___________________________________________________________________________________________________________________________________________________________
 
 
   Be Productive Software → https://vastien.github.io/be-productive-website                           
