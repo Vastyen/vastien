@@ -1,5 +1,8 @@
 ## Hey There!
 
+My name is Bastián and my passion is the computer science.
+
+
   Be Productive Software → https://vastien.github.io/be-productive-website                           
   Source Code → https://github.com/vastien/be-productive
   
