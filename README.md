@@ -14,7 +14,7 @@ Student at → https://informatica.usach.cl/
  
          
              
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vastien&theme=merko)](https://github.com/anuraghazra/github-readme-tokyonight)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vastien&theme=tokyonight)](https://github.com/vastient)
 
 
 
