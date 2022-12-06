@@ -1,10 +1,10 @@
 ## Hey There!
 
 I'm Bastián and love computer science, software developer and software engineer. 🖥️           
-I have 23yo and almost 5 years in the computer world.                                     
+I have 23yo and almost 5 years in the computer world.      ![](https://visitor-badge.laobi.icu/badge?page_id=vastien.vastien)                               
 I speak spanish and medium-high english. 🌎
 
-![As](https://visitor-badge.laobi.icu/badge?page_id=vastien.vastien)
+
 
 ___________________________________________________________________________________________________________________________________________________________
 
@@ -32,4 +32,5 @@ Student at → https://informatica.usach.cl/
 
 ___________________________________________________________________________________________________________________________________________________________
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastien&layout=compact)](https://github.com/vastien)
 
