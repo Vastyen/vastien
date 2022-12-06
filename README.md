@@ -1,7 +1,8 @@
-## Hey There!
+## Hey! 🙋🏻‍♂️
 
-I'm Bastián[23] and love computer science, software developer and software engineer.                              
-I speak spanish and medium-high english. 🌎            
+I'm Bastián and love computer science, software developer and software engineer. 👨🏻‍💻       
+I have 23yo. and almost 5y in this computer world. 💾                           
+I speak spanish and medium-high english. 💬           
 
 To guide myself → https://roadmap.sh/                                                                                                                                                                                                                                                                                                                                        
 Student at → https://informatica.usach.cl/                            
