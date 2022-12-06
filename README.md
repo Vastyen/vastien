@@ -34,4 +34,4 @@ ________________________________________________________________________________
 
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastien&hide=css,scss&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastien&hide=html,css,scss&theme=tokyonight)
