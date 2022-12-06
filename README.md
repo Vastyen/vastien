@@ -1,7 +1,7 @@
 ## Hey There!
 
 I'm Bastián and love computer science, software developer and software engineer. 🖥️           
-I have 23yo and almost 5 years in the computer world.
+I have 23yo and almost 5 years in the computer world.                                     
 I speak spanish and medium-high english. 🌎
 
 ___________________________________________________________________________________________________________________________________________________________
