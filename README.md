@@ -1,6 +1,6 @@
 ## Hey There!
 
-I'm Bastián and love computer science, software developer and software engineer. 🖥️
+I'm Bastián and love computer science, software developer and software engineer. 🖥️                                         
 I speak spanish and medium-high english. 🌎
 
 ___________________________________________________________________________________________________________________________________________________________
