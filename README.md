@@ -5,6 +5,9 @@ I have 23yo and almost 5 years in the computer world.      ![](https://visitor-b
 I speak spanish and medium-high english. 🌎
 
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastien&hide=html,css,scss&theme=dark)
+
+
 
 ___________________________________________________________________________________________________________________________________________________________
 
@@ -34,4 +37,4 @@ ________________________________________________________________________________
 
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastien&hide=html,css,scss&theme=gruvbox)
+
