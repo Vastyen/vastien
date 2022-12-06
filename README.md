@@ -5,8 +5,7 @@ I have 23yo and almost 5 years in the computer world.      ![](https://visitor-b
 I speak spanish and medium-high english. 🌎
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastien&langs_count=10&layout=compact&hide=html,css,scss&theme=merko)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vastien&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastien&langs_count=10&layout=compact&hide=html,css,scss&theme=merko) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vastien&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
