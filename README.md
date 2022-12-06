@@ -4,7 +4,7 @@ I'm Bastián and love computer science, software developer and software engineer
 I have 23yo and almost 5 years in the computer world.                                     
 I speak spanish and medium-high english. 🌎
 
-![](https://visitor-badge.laobi.icu/badge?page_id=vastien.vastien)
+![As](https://visitor-badge.laobi.icu/badge?page_id=vastien.vastien)
 
 ___________________________________________________________________________________________________________________________________________________________
 
