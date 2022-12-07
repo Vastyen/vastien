@@ -1,6 +1,6 @@
-## Hey! 🙋🏻‍♂️
+## Hey! 🙋🏻‍♂️ I'm Bastián, Full-Stack Developer
 
-I'm Bastián and love computer science, software developer and software engineer. 👨🏻‍💻       
+I love computer science, software developer and software engineer. 👨🏻‍💻       
 I have 23yo. and almost 5y in this computer world. 💾                           
 I speak spanish and medium-high english. 💬           
 
