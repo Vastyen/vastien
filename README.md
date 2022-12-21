@@ -8,5 +8,3 @@ To guide myself → https://roadmap.sh/
 Student at → https://informatica.usach.cl/                            
 
 
-
-<iframe src="//funhtml5games.com?embed=mariocraft" style="width:854px;height:480px;border:none;" frameborder="0" scrolling="no"></iframe>
