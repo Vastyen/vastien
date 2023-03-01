@@ -1,10 +1,11 @@
-## Hey! 🙋🏻‍♂️ I'm Bastián & I'm a Full-Stack Developer 👨🏻‍💻 
+## Hey! 🙋🏻‍♂️ I'm Bastián & I'm a Semi-Senior Full-Stack Developer 👨🏻‍💻 
 
 I love computer science, software developer and software engineer. ⌨️      
 I'am 23yo. and almost 5y in this.computer world. 💾                           
 I speak spanish and medium-high english. 💬           
 
-To guide myself → https://roadmap.sh/                                                                                                                                                                                                                                                                                                                                        
+To guide myself → https://roadmap.sh/ 
+Developer at https://www.tarjetacencosud.cl/
 Student at → https://informatica.usach.cl/                            
 
 
