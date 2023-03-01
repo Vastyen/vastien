@@ -3,9 +3,8 @@
 I love computer science, software developer and software engineer. ⌨️      
 I'am 23yo. and almost 5y in this.computer world. 💾                           
 I speak spanish and medium-high english. 💬           
-
-To guide myself → https://roadmap.sh/ 
-Developer at https://www.tarjetacencosud.cl/
-Student at → https://informatica.usach.cl/                            
-
+                            
+Developer at https://www.tarjetacencosud.cl/                       
+Student at → https://informatica.usach.cl/                                                             
+To guide myself → https://roadmap.sh/                         
 
