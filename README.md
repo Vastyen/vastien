@@ -1,4 +1,4 @@
-## Semi-Senior Full-Stack Developer & Software Engineer 👨🏻‍💻 
+## I'm a Semi-Senior Full-Stack Developer 👨🏻‍💻 
 
 Passionate by the computer science and software engineer. 💾      
 Native spanish and medium-high english by EFSET. 🌎          
