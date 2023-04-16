@@ -1,9 +1,5 @@
 ## Full-Stack Engineer 👨🏻‍💻 
-
-- Passionate by the computer science and software engineer. 💾      
-- Native spanish and medium-high english by EFSET. 🌎          
                             
-Software Engineer at → https://www.tarjetacencosud.cl/                       
-Student at → https://informatica.usach.cl/                                                             
+Software Engineer at → https://www.tarjetacencosud.cl/                                                                                                 
 To guide myself → https://roadmap.sh/                         
-
+Student at → https://informatica.usach.cl/                         
