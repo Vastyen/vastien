@@ -7,6 +7,6 @@ Chief Executive Officer at → https://atomics.cl/
                                                                                                           
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim, javascript, typescript, react, node, springboot, java" />
   </a>
 </p>
