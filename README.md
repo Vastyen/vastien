@@ -2,5 +2,5 @@
 * Scrum Foundation Professional Certificate 
 * EF SET Certificate Upper Intermediate
                             
-Full-Stack Engineer at → https://www.seguroscencosud.cl/                                          
-Chief Executive Officer at → https://atomics.cl/                                                               
+Full-Stack Engineer at → https://www.tarjetacencosud.cl/                                                 
+                                                            
